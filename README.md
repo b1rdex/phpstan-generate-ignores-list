@@ -1,0 +1,1 @@
+# phpstan-generate-ignores-list
