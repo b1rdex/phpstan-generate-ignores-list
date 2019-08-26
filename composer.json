@@ -1,0 +1,15 @@
+{
+    "name": "b1rdex/phpstan-generate-ignores-list",
+    "description": "Allows to generate phpstan config with ignores list based on phpstan report (some kind of baseline)",
+    "require": {
+        "php": "^7.3",
+        "nette/neon": "^3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anatoly Pashin",
+            "email": "anatoly.pashin@gmail.com"
+        }
+    ]
+}
